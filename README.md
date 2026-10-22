@@ -1,5 +1,5 @@
 # 💫 About Me:
-cs + embedded systems | Working on expanding my knowledge about machine learning and wireless mesh networks | student at Riga State Technical school
+cs + cybersecurity | Working on expanding my knowledge about machine learning and wireless mesh networks | student at Riga State Technical school
 
 
 ## 🌐 Socials:
