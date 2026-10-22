@@ -1,5 +1,5 @@
 # 💫 About Me:
-cs + embedded systems | Working on expanding my knowledge about machine learning, algo trading, x402 and scalable SaaS apps | student at Riga State Technical school
+cs + embedded systems | Working on expanding my knowledge about machine learning and wireless mesh networks | student at Riga State Technical school
 
 
 ## 🌐 Socials:
